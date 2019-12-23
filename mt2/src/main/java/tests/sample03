@@ -1,0 +1,11 @@
+functionmax(a, b:integer):integer;
+proceduremax(a, b:integer);
+function a(a, b : integer; c, d : string):real;trash
+function a( : integer; c, d : string):real;
+function a(a, b : inteer; c, d : string):real;
+function a(a, b : integer c, d : string):real;
+function a(a b : integer; c, d : string):real;
+function aa, b : integer; c, d : string):real;
+function a(a, b : integer; c, d : string:real;
+function a(a, b : integer; c, d : string):;
+function a(a, b : integer; c, d : string);
