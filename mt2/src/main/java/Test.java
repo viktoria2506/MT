@@ -11,12 +11,7 @@ public class Test {
         Tree.print(parser.parse("function f ( n , a : integer; var x : string) : integer;"), "./tree_images/test0");
 
         Tree.print(parser.parse("procedure f;"), "./tree_images/test1");
-        while (n) {
-            if (n & 1) {
-                count++;
-            }
-            n = (n >> 1);
-        }
+       
 
     }
 }
